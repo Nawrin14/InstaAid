@@ -1,2 +1,2 @@
-# Java-Project
-A health app with some additional features. Database has been used to build this app.
+# InstaAid
+This is my 2nd Year 1st semester software development lab-II project
