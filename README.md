@@ -1,2 +1,2 @@
 # Java-Project
-This is a health app with some additional features. Database has been used to build this app.
+A health app with some additional features. Database has been used to build this app.
