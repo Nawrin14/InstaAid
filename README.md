@@ -1,5 +1,5 @@
 # InstaAid
-This is my 2nd Year 1st semester software development lab-II project
+A health app with some additional features. Local database has been used to build this software.
 
 # Other Contributors
 1. Monjure Mowla Abir
