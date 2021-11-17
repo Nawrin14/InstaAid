@@ -1,6 +1,6 @@
 # InstaAid
-A health app with some additional features. Local database has been used to build this software.
+It is a health app with some additional features.
 
 # Other Contributors
-1. Monjure Mowla Abir
-2. Kaji Fuad Bin Akhter
+1. [Monjure Mowla Abir](https://github.com/abir2727)
+2. [Kaji Fuad Bin Akhter](https://github.com/FuadBinAkhter)
